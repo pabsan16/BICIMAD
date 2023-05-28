@@ -11,11 +11,11 @@ Además, en cada estación organizaremos las estaciones en orden creciente en cu
 
 Los pasos que hemos seguido para implementar el código que nos permita analizar los datos que queremos son los siguientes:
 
-1.	Unimos los datos de los ficheros que pertenecen a la misma estación (o si estamos estudiando el año entero, todos los meses del año) mediante la función union.
+1.	Unimos los datos de los ficheros que pertenecen a la misma estación (o si estamos estudiando el año entero, todos los meses del año) mediante la función **union**.
 
-2.	A través de la función mapper, nos quedamos únicamente con los datos que nos interesan de los que aparecen en los ficheros (por ejemplo, la estación en la que se inicia el viaje y en la que se termina).
+2.	A través de la función **datos**, nos quedamos únicamente con los datos que nos interesan de los que aparecen en los ficheros (por ejemplo, la estación en la que se inicia el viaje y en la que se termina).
 
-3.	Después, ordenamos las estaciones en orden creciente en cuanto al número de bicis que acaban teniendo con la función sort que hemos definido.
+3.	Después, ordenamos las estaciones en orden creciente en cuanto al número de bicis que acaban teniendo con la función **sort** que hemos definido.
 
 4.	Finalmente, mostramos por pantalla las listas de las estaciones (organizadas en estaciones y año completo) ya ordenadas.
 
