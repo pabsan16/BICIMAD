@@ -1,5 +1,7 @@
 # BICIMAD
 
+# AUTORES: JAVIER MARTÍNEZ PÉREZ, JUDIT NIETO PARLA, PABLO SÁNCHEZ RICO
+
 En este repositorio se pueden encontrar los ficheros necesarios para la práctica de BICIMAD. En la memoria subida al repositorio, se pueden ver más en detalle los diferentes pasos que hemos seguido para la implementación del código con el que resolvemos el problema elegido, así como los resultados y conclusiones que obtenemos de nuestro análisis.
 
 **Problema a estudiar:**
